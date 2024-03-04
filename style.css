@@ -1,4 +1,3 @@
-/* 630 lines completed 07/02/2024 */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
 *{
@@ -90,7 +89,7 @@ html{
 .header{
     width: 100%;
     margin-bottom: 6rem;
-    background-image: url('/images/banner.PNG');
+    background-image: url('images/banner.PNG');
     color: white;
     background-size: 100% 600px;
     background-repeat: no-repeat;
